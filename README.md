@@ -1,6 +1,9 @@
 Next.js Dashboard
 =================
 
+<img width="902" alt="Screenshot 2024-01-21 at 22 55 36" src="https://github.com/ajinsunny/nextjs-dashboard/assets/5816373/d9b98c7c-f4c7-496c-b0cf-b179982950d9">
+
+
 Overview
 --------
 
